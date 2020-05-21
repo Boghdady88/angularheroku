@@ -27,6 +27,7 @@
     "@angular/platform-browser-dynamic": "~9.1.0",
     "@angular/router": "~9.1.0",
     "@angular/service-worker": "~9.1.0",
+    "@fortawesome/fontawesome-free": "^5.13.0",
     "angular-modal-gallery": "^5.7.1",
     "bootstrap": "^4.4.1",
     "express": "^4.17.1",
